@@ -1,0 +1,6 @@
+Create email accounts for new hires:
+-generate an email with the following syntax: firstname.lastname@department.company.com
+-determine the department, leave blank if none
+-generate random string for a password
+-have methods to change password, set mailbox capacity, define an alternate email address
+-have get methods to display the name, email and mailbox capacity
